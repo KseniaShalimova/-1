@@ -1,4 +1,5 @@
-﻿string str = "qqwewqq";
+﻿string str = "Казак".ToLower();
+
 string answer = "Yes";
 for (int i = 0; i < str.Length / 2; i++)
 {
